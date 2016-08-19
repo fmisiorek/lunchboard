@@ -1,0 +1,25 @@
+{
+  "name": "lunchboard",
+  "version": "1.0.0",
+  "description": "Fun with node on lunch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmisiorek/lunchboard.git"
+  },
+  "keywords": [
+    "lunch"
+  ],
+  "author": "Filip Misiorek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmisiorek/lunchboard/issues"
+  },
+  "homepage": "https://github.com/fmisiorek/lunchboard#readme",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  }
+}
